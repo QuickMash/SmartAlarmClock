@@ -2,9 +2,8 @@ import requests
 import time
 import datetime
 import flask
-import os
 import json
-import speech_recognition as sr
+#import speech_recognition as sr
 
 
 def main():
