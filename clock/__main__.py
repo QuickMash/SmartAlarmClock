@@ -19,4 +19,4 @@ def recognize():
 if __name__ == "__main__":
   main()
 else:
-  sys.exit("This file must be ran directly")
+  Print("Uh Oh This cant be done")
